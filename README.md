@@ -1,0 +1,2 @@
+#PocketCards
+ocketCards is a digital solution designed to reduce the waste of paper loyalty cards while benefiting both businesses and users. It provides businesses with an efficient and convenient tool for managing loyalty programs and offers users an eco-friendly and hassle-free way to access and manage their cards anytime, anywhere. PocketCards promotes sustainability and enhances customer engagement simultaneously.
