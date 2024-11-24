@@ -9,7 +9,8 @@ PocketCards is a digital solution designed to reduce the waste of paper loyalty 
 
 ## Progress
 
-Create the document → upload to github
+- [ ]  Connecting Cloud-Hosted PostgreSQL to Django
+- [ ]  
 
 ## Function
 
