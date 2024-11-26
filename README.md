@@ -3,13 +3,13 @@ PocketCards is a digital solution designed to reduce the waste of paper loyalty 
 
 ## Stack
 
-- Postgresql cloud/deploy?Aiven
+- Postgresql cloud/deploy?Aiven 
 - React Native
 - Python Django
 
 ## Progress
 
-- [ ]  Connecting Cloud-Hosted PostgreSQL to Django
+- [ ]  Connecting Cloud-Hosted PostgreSQL to Django : https://www.youtube.com/watch?v=wczWm8j4v9w
 - [ ]  
 
 ## Function
