@@ -3,7 +3,7 @@ PocketCards is a digital solution designed to reduce the waste of paper loyalty 
 
 ## Stack
 
-- Postgresql cloud/deploy?Aiven 
+- Postgresql cloud/deploy Neon
 - React Native
 - Python Django
 
