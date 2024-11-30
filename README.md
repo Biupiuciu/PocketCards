@@ -9,7 +9,7 @@ PocketCards is a digital solution designed to reduce the waste of paper loyalty 
 
 ## Progress
 
-- [ x ]  Connecting Cloud-Hosted PostgreSQL to Django : https://www.youtube.com/watch?v=wczWm8j4v9w
+- [x]  Connecting Cloud-Hosted PostgreSQL to Django : https://www.youtube.com/watch?v=wczWm8j4v9w
 - [ ] Finish signup&loginIn&Logout api
 - [ ] Add middleware for every api request
 
