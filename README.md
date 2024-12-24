@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,34 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# PocketCards
+PocketCards is a digital solution designed to reduce the waste of paper loyalty cards while benefiting both businesses and users. It offers users an eco-friendly and hassle-free way to access and manage their cards anytime, anywhere. PocketCards promotes sustainability and enhances customer engagement simultaneously.
+
+## Stack
+
+- AWS
+- React Native
+
+## Progress
+
+- [ ]  
+
+## Function
+
+- [ ]  login
+- [ ]  check different shop
+- [ ]  check loyalty card
+- [ ]  use loyalty card
+- [ ]  redeem
+
+## General
+
+- [ ]  github
+- [ ]  react
+
+## Maybe in the future
+
+- [ ]  map
+- [ ]  pay
+>>>>>>> 60411cf7642a68b2761e91fae9f0dfa352a1119c
